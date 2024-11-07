@@ -1,0 +1,30 @@
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.dll
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.dll
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorModel\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorModel\obj\Debug\ImageManipulatorModel.pdb

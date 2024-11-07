@@ -1,0 +1,60 @@
+C:\Users\Tom\source\repos\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorController.dll
+C:\Users\Tom\source\repos\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorController.pdb
+C:\Users\Tom\source\repos\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.dll
+C:\Users\Tom\source\repos\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.pdb
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.dll
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.pdb
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorController.dll
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorController.pdb
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive - University of Worcester\Desktop\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CopyComplete
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorController\bin\Debug\ImageManipulatorController.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorController\bin\Debug\ImageManipulatorController.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorController\bin\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorController\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CopyComplete
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorController\obj\Debug\ImageManipulatorController.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\bozos_COMP3404_Artefact2 - Copy (2)\ImageManipulatorController\obj\Debug\ImageManipulatorController.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorController.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorController.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CopyComplete
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.pdb
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorController.dll
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorController.pdb
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorModel.dll
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorController\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageMan.27C3C7D8.Up2Date
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.dll
+C:\Users\Tom\Desktop\Software Image Editor\bozos_COMP3404_Artefact2\ImageManipulatorController\obj\Debug\ImageManipulatorController.pdb
+C:\Users\Tom\OneDrive - University of Worcester\Files\Year 3\Semester 2\Software Engineering\Ass 02\bozos_COMP3404_Artefact2_final\ImageManipulatorController\bin\Debug\ImageManipulatorController.dll
+C:\Users\Tom\OneDrive - University of Worcester\Files\Year 3\Semester 2\Software Engineering\Ass 02\bozos_COMP3404_Artefact2_final\ImageManipulatorController\bin\Debug\ImageManipulatorController.pdb
+C:\Users\Tom\OneDrive - University of Worcester\Files\Year 3\Semester 2\Software Engineering\Ass 02\bozos_COMP3404_Artefact2_final\ImageManipulatorController\bin\Debug\ImageManipulatorModel.dll
+C:\Users\Tom\OneDrive - University of Worcester\Files\Year 3\Semester 2\Software Engineering\Ass 02\bozos_COMP3404_Artefact2_final\ImageManipulatorController\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\Tom\OneDrive - University of Worcester\Files\Year 3\Semester 2\Software Engineering\Ass 02\bozos_COMP3404_Artefact2_final\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.AssemblyReference.cache
+C:\Users\Tom\OneDrive - University of Worcester\Files\Year 3\Semester 2\Software Engineering\Ass 02\bozos_COMP3404_Artefact2_final\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CoreCompileInputs.cache
+C:\Users\Tom\OneDrive - University of Worcester\Files\Year 3\Semester 2\Software Engineering\Ass 02\bozos_COMP3404_Artefact2_final\ImageManipulatorController\obj\Debug\ImageMan.27C3C7D8.Up2Date
+C:\Users\Tom\OneDrive - University of Worcester\Files\Year 3\Semester 2\Software Engineering\Ass 02\bozos_COMP3404_Artefact2_final\ImageManipulatorController\obj\Debug\ImageManipulatorController.dll
+C:\Users\Tom\OneDrive - University of Worcester\Files\Year 3\Semester 2\Software Engineering\Ass 02\bozos_COMP3404_Artefact2_final\ImageManipulatorController\obj\Debug\ImageManipulatorController.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorController\bin\Debug\ImageManipulatorController.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorController\bin\Debug\ImageManipulatorController.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorController\bin\Debug\ImageManipulatorModel.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorController\bin\Debug\ImageManipulatorModel.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorController\obj\Debug\ImageManipulatorController.csproj.CopyComplete
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorController\obj\Debug\ImageManipulatorController.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\Most recent projects\Bozos_COMP3404_Portfolio2\Artefact\ImageManipulatorController\obj\Debug\ImageManipulatorController.pdb
