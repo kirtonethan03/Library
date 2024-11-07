@@ -1,0 +1,17 @@
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\FishUnitTests.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\FishUnitTests.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\MediaServer.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\obj\Debug\FishUnitTests.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\obj\Debug\FishUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\obj\Debug\FishUnitTests.csproj.CopyComplete
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\obj\Debug\FishUnitTests.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishUnitTests\obj\Debug\FishUnitTests.pdb

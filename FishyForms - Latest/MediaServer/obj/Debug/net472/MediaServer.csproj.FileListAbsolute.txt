@@ -1,0 +1,33 @@
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\obj\Debug\net472\MediaServer.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\obj\Debug\net472\MediaServer.Properties.Resources.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\obj\Debug\net472\MediaServer.csproj.GenerateResource.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\obj\Debug\net472\MediaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\obj\Debug\net472\MediaServer.AssemblyInfoInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\obj\Debug\net472\MediaServer.AssemblyInfo.cs
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\obj\Debug\net472\MediaServer.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\bin\Debug\net472\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\bin\Debug\net472\MediaServer.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\obj\Debug\net472\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\MediaServer\obj\Debug\net472\MediaServer.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\bin\Debug\net472\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\bin\Debug\net472\MediaServer.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\obj\Debug\net472\MediaServer.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\obj\Debug\net472\MediaServer.Properties.Resources.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\obj\Debug\net472\MediaServer.csproj.GenerateResource.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\obj\Debug\net472\MediaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\obj\Debug\net472\MediaServer.AssemblyInfoInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\obj\Debug\net472\MediaServer.AssemblyInfo.cs
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\obj\Debug\net472\MediaServer.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\obj\Debug\net472\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\MediaServer\obj\Debug\net472\MediaServer.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\bin\Debug\net472\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\bin\Debug\net472\MediaServer.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\obj\Debug\net472\MediaServer.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\obj\Debug\net472\MediaServer.Properties.Resources.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\obj\Debug\net472\MediaServer.csproj.GenerateResource.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\obj\Debug\net472\MediaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\obj\Debug\net472\MediaServer.AssemblyInfoInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\obj\Debug\net472\MediaServer.AssemblyInfo.cs
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\obj\Debug\net472\MediaServer.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\obj\Debug\net472\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\MediaServer\obj\Debug\net472\MediaServer.pdb

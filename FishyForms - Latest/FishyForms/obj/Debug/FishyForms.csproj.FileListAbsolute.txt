@@ -1,0 +1,42 @@
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\bin\Debug\FishyForms.exe.config
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\bin\Debug\FishyForms.exe
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\bin\Debug\FishyForms.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\obj\Debug\FishyForms.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\obj\Debug\FishyForms.Fishes.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\obj\Debug\FishyForms.Fishyform.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\obj\Debug\FishyForms.Properties.Resources.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\obj\Debug\FishyForms.csproj.GenerateResource.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\obj\Debug\FishyForms.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\obj\Debug\FishyForms.exe
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\obj\Debug\FishyForms.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\bin\Debug\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\bin\Debug\MediaServer.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms\FishyForms\obj\Debug\FishyForms.csproj.CopyComplete
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\bin\Debug\FishyForms.exe.config
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\bin\Debug\FishyForms.exe
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\bin\Debug\FishyForms.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\bin\Debug\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\bin\Debug\MediaServer.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\obj\Debug\FishyForms.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\obj\Debug\FishyForms.Fishes.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\obj\Debug\FishyForms.Fishyform.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\obj\Debug\FishyForms.Properties.Resources.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\obj\Debug\FishyForms.csproj.GenerateResource.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\obj\Debug\FishyForms.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\obj\Debug\FishyForms.csproj.CopyComplete
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\obj\Debug\FishyForms.exe
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Copy\FishyForms\obj\Debug\FishyForms.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\bin\Debug\FishyForms.exe.config
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\bin\Debug\FishyForms.exe
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\bin\Debug\FishyForms.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\bin\Debug\MediaServer.dll
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\bin\Debug\MediaServer.pdb
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\obj\Debug\FishyForms.csproj.AssemblyReference.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\obj\Debug\FishyForms.Fishes.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\obj\Debug\FishyForms.Fishyform.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\obj\Debug\FishyForms.Properties.Resources.resources
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\obj\Debug\FishyForms.csproj.GenerateResource.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\obj\Debug\FishyForms.csproj.CoreCompileInputs.cache
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\obj\Debug\FishyForms.csproj.CopyComplete
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\obj\Debug\FishyForms.exe
+C:\Users\cubeg\OneDrive\Desktop\Assignments\ASE\FishyForms - Latest\FishyForms\obj\Debug\FishyForms.pdb
